@@ -33,7 +33,11 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-knowledge%20(preview)-0d1117?style=for-the-badge&logo=python&logoColor=00ffe0"/>
 </p>
 
 ---
@@ -139,5 +143,3 @@
 </p>
 
 ---
-
-<!-- README by Maria Isabel -->
